@@ -1,0 +1,139 @@
+{
+  "host": "connect.westd.seetacloud.com",
+  "port": 32204,
+  "fingerprint": "SHA256:y2DhrdHAWfTCoY9uLz0ve3EzTKYtWNBBWm80QUTOkXg",
+  "captured_at": "2026-10-03T22:39:10+0800",
+  "files": [
+    {
+      "path": "run_server_coletti.sh",
+      "size": 838,
+      "sha256": "c902ba67838904a12630d7c60382bc69668b529a5f4186539442ab499524ca0e"
+    },
+    {
+      "path": "run_server_novel.sh",
+      "size": 838,
+      "sha256": "c902ba67838904a12630d7c60382bc69668b529a5f4186539442ab499524ca0e"
+    },
+    {
+      "path": "run_server_coletti.sh.before-20261003",
+      "size": 967,
+      "sha256": "1dbbb48e9f2413cd4dab1954d44db987e3cf9d008ac36a57594a274d8c968512"
+    },
+    {
+      "path": "start-qwen-service.sh",
+      "size": 602,
+      "sha256": "b58d77ef421d54ebec02aa2174c0c70b465959b0e8422781fd0953192a352c7d"
+    },
+    {
+      "path": "build_coletti.sh",
+      "size": 609,
+      "sha256": "24cecacadfa0590803898a1148739834ba3ff3b31ad476db8ffc3b2fea360f14"
+    },
+    {
+      "path": "setup_coletti.sh",
+      "size": 712,
+      "sha256": "1f4f90f1272458fb74791c95cba2b10828639486082499fc34f6b7e248bc5a96"
+    },
+    {
+      "path": "dl_coletti.sh",
+      "size": 693,
+      "sha256": "4ed0da248fe812fc541de88d7975596320a85d19192d98ff01f4ea8457163afe"
+    },
+    {
+      "path": "llm-idle-shutdown.sh",
+      "size": 3904,
+      "sha256": "3a32c4ea34c1682b72dde5c4a6c7182157c93c5f3e3a4a8dddd345486f8bd406"
+    },
+    {
+      "path": "llm-idle-start.sh",
+      "size": 368,
+      "sha256": "6050bf6b444917e24d01605f87017f19a064b50cb2449f5a3e6ab42514d191e3"
+    },
+    {
+      "path": "llm-idle-watchdog.sh",
+      "size": 323,
+      "sha256": "f946dc8a5522638b751fcc5ecc9d2fda5715a5380736cb10e32e25926b4dab03"
+    },
+    {
+      "path": "monitor_coletti.py",
+      "size": 5983,
+      "sha256": "8843a1936da1cbdfc9c8cd3e0476688c20d7d1dc7302ef47160b349cff0fd992"
+    },
+    {
+      "path": "run_monitor_coletti.sh",
+      "size": 90,
+      "sha256": "348bece4eb7ea375bb4ff9c788815367ca7ed747e582a761f500429cb6657274"
+    },
+    {
+      "path": "setup_nginx_monitor.sh",
+      "size": 1298,
+      "sha256": "e8b0718b96dfed1b495a49bc82056d2459e2d2c5db353166a74bb766619f63cd"
+    },
+    {
+      "path": "nginx_coletti.conf",
+      "size": 1591,
+      "sha256": "f840ae8c4e4b0b4a3f033163fc4fbd4dea43ca56ab264391dd33737b0c9e1600"
+    },
+    {
+      "path": "info2.sh",
+      "size": 951,
+      "sha256": "fa4991459121f2b2689d52be76689044cd1696f83569cc387a7caa136916bc4b"
+    },
+    {
+      "path": "server-audit-20261003.log",
+      "size": 18438,
+      "sha256": "21ad89fa080f240dddf72f79cab6166895c85758498286566e01a784d82e7853"
+    },
+    {
+      "path": "server-novel.log",
+      "size": 8927,
+      "sha256": "6e39dd34fd634dc6333ed9fbf0ec894d72f11d22074ab5d9b4b08684c4f152ed"
+    },
+    {
+      "path": "server_coletti.log",
+      "size": 339763,
+      "sha256": "432e3707334552188ccc8a3f268fa2bd010b1848df9f7c330555d52390e3e701"
+    },
+    {
+      "path": "idle_shutdown.log",
+      "size": 4836,
+      "sha256": "4bb3af83e68583e755b2375e54678589c7d6697a78bc96fe1bd03b674b0bfe29"
+    },
+    {
+      "path": "build_coletti.log",
+      "size": 1048,
+      "sha256": "a4ef0ed8257e2dae07fdec836fac38c6ea3afc03b461c97e60d42c2848ae0c52"
+    },
+    {
+      "path": "llama-source-audit.tar.gz",
+      "size": 37281734,
+      "sha256": "aa66199c31b1ad58ee51b15c3dcf8e525d31ffffe901d30c4b7fac536f8fd744"
+    },
+    {
+      "path": "environment.txt",
+      "size": 1819,
+      "sha256": "10fdd24627be7fbd052ac18ae40175efb0ef4a7a0c92e8b5854c713a2fd12708"
+    },
+    {
+      "path": "cmake-options.txt",
+      "size": 1687,
+      "sha256": "f0bf85448cf87edda507f1ce29998720acde84155a9d110702676bbd12194eb2"
+    },
+    {
+      "path": "model-sha256.txt",
+      "size": 252,
+      "sha256": "043662966d3c6d2f3fb2c0bd5186e0ca9d6d4e217db86353d2a3a4b27590044c"
+    },
+    {
+      "path": "models.json",
+      "size": 790,
+      "sha256": "adf9bbdb21c5df1a6816729a5e8f405dd4a1d9ef82365f068099866fc90738a4"
+    },
+    {
+      "path": "props.json",
+      "size": 11087,
+      "sha256": "f30cfd32158255636bc08058c074b601808525b869d919917584c39a056b2327"
+    }
+  ],
+  "llama_cpp_commit": "d230ddd763ffe27781c7ffd237ea78b639b36b6d"
+}

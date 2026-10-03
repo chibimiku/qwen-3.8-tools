@@ -1,0 +1,13 @@
+{
+  "repository": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+  "revision": "45d0fc0ad6cfcf9eeee6008ddaea925536409b18",
+  "filename": "Qwen3.8-27B-Uncensored-Q8_0.gguf",
+  "lfs": {
+    "sha256": "fb2cb9aa5407264aec6698faf41183f337809352abe0bd8fb750c0b689f4ced2",
+    "size": 29047084448,
+    "pointerSize": 136
+  },
+  "deployed_sha256": "fb2cb9aa5407264aec6698faf41183f337809352abe0bd8fb750c0b689f4ced2",
+  "hash_matches": true,
+  "download_url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF/resolve/45d0fc0ad6cfcf9eeee6008ddaea925536409b18/Qwen3.8-27B-Uncensored-Q8_0.gguf"
+}

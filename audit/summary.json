@@ -1,0 +1,202 @@
+[
+  {
+    "label": "original",
+    "seconds": 77.33,
+    "characters": 5342,
+    "hanzi": 4905,
+    "finish_reason": "stop",
+    "usage": {
+      "completion_tokens": 3131,
+      "prompt_tokens": 216,
+      "total_tokens": 3347,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "windows": [
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0121
+      },
+      {
+        "chars": 342,
+        "repeated_10gram_fraction": 0.0
+      }
+    ],
+    "reasoning_chars": 0
+  },
+  {
+    "label": "neutral_penalties",
+    "seconds": 128.61,
+    "characters": 10820,
+    "hanzi": 7806,
+    "finish_reason": "length",
+    "usage": {
+      "completion_tokens": 7000,
+      "prompt_tokens": 216,
+      "total_tokens": 7216,
+      "prompt_tokens_details": {
+        "cached_tokens": 212
+      }
+    },
+    "windows": [
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0212
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.004
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.002
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0091
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0151
+      },
+      {
+        "chars": 820,
+        "repeated_10gram_fraction": 0.0123
+      }
+    ],
+    "reasoning_chars": 0
+  },
+  {
+    "label": "official_non_thinking",
+    "seconds": 99.22,
+    "characters": 7147,
+    "hanzi": 5618,
+    "finish_reason": "stop",
+    "usage": {
+      "completion_tokens": 4529,
+      "prompt_tokens": 216,
+      "total_tokens": 4745,
+      "prompt_tokens_details": {
+        "cached_tokens": 212
+      }
+    },
+    "windows": [
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0
+      },
+      {
+        "chars": 147,
+        "repeated_10gram_fraction": 0.0
+      }
+    ],
+    "reasoning_chars": 0
+  },
+  {
+    "label": "repeat_only_fix",
+    "seconds": 82.16,
+    "characters": 6050,
+    "hanzi": 4757,
+    "finish_reason": "stop",
+    "usage": {
+      "completion_tokens": 3846,
+      "prompt_tokens": 216,
+      "total_tokens": 4062,
+      "prompt_tokens_details": {
+        "cached_tokens": 212
+      }
+    },
+    "windows": [
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.003
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0
+      },
+      {
+        "chars": 1000,
+        "repeated_10gram_fraction": 0.0061
+      },
+      {
+        "chars": 50,
+        "repeated_10gram_fraction": 0.0
+      }
+    ],
+    "reasoning_chars": 0
+  }
+]

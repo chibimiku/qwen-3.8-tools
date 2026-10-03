@@ -1,0 +1,38 @@
+[
+  {
+    "name": "user_original",
+    "seconds": 69.58,
+    "characters": 4904,
+    "hanzi": 4382,
+    "latin_words": [
+      "vs"
+    ],
+    "finish_reason": "stop",
+    "usage": {
+      "completion_tokens": 2869,
+      "prompt_tokens": 50,
+      "total_tokens": 2919,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "reasoning_chars": 0
+  },
+  {
+    "name": "user_fixed",
+    "seconds": 81.28,
+    "characters": 5869,
+    "hanzi": 4932,
+    "latin_words": [],
+    "finish_reason": "stop",
+    "usage": {
+      "completion_tokens": 3683,
+      "prompt_tokens": 140,
+      "total_tokens": 3823,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "reasoning_chars": 0
+  }
+]

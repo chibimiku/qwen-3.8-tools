@@ -218,3 +218,29 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Qwen deployment / personal configuration
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.gguf
+*.safetensors
+*.bin
+*.exe
+build/
+results/
+deepseek-experiment/results/
+*.tmp
+config-before-qwen-*.json
+MobaXterm-before-qwen-*.ini
+config.json
+MobaXterm.ini
+secrets/
+upload-command.json
+deepseek-experiment/DeepSeek实验包.zip
+
+# Keep raw operational logs and host environment local; publish a restore summary.
+deployment/snapshot-20261003/*.log
+deployment/snapshot-20261003/environment.txt

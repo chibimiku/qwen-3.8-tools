@@ -1,0 +1,2 @@
+fb2cb9aa5407264aec6698faf41183f337809352abe0bd8fb750c0b689f4ced2  /root/autodl-tmp/models/Qwen3.8-27B-Uncensored-Q8_0.gguf
+5ac423f8a29059dc24e51bc6a43e9380dcd57a9347f28b62591e0b3f60b7081c  /root/autodl-tmp/models/mmproj-Qwen3.8-27B-Uncensored-F16.gguf
